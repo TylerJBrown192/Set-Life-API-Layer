@@ -1,9 +1,17 @@
-# README
+# Set Life (API Layer)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the repository for the Rails 5 API Layer of the Set Life application, eventually located at [SetLife.live](#).
 
-Things you may want to cover:
+Set Life is an application for users who love all things music - concerts, bands, albums, reviews, everything.
+
+Eventually this README will detail the technologies used for the back end of the application as well as the features it showcases.
+
+You can find the Ember.js UI layer of Set Life [in this repository](https://github.com/TylerJBrown192/Set-Life-UI-Layer).
+
+---------------------------------------------------
+
+
+#### Things that will eventually be covered:
 
 * Ruby version
 
@@ -20,5 +28,3 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
