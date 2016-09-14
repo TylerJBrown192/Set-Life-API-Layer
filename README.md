@@ -10,6 +10,9 @@ You can find the Ember.js UI layer of Set Life [in this repository](https://gith
 
 ---------------------------------------------------
 
+### Planned Schema Visualization
+
+![alt text](https://github.com/tylerjbrown192/Set-Life-API-Layer/schema.png "The Initial Schema for the Set Life application")
 
 #### Things that will eventually be covered:
 
